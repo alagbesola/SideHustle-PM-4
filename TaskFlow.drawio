@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T21:41:06.351Z" agent="5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-5t-miYZUHlo_n03c8O7" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T21:42:24.465Z" agent="5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="OdzUG2goT8JP2vXe8z9q" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,11 +45,22 @@
         <mxCell id="tUX4ecAW6TSRSTz0bDxl-8" value="Add Courses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tUX4ecAW6TSRSTz0bDxl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tUX4ecAW6TSRSTz0bDxl-13" target="tUX4ecAW6TSRSTz0bDxl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tUX4ecAW6TSRSTz0bDxl-13" value="Start Courses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tUX4ecAW6TSRSTz0bDxl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tUX4ecAW6TSRSTz0bDxl-14" target="tUX4ecAW6TSRSTz0bDxl-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tUX4ecAW6TSRSTz0bDxl-14" value="New Courses/&lt;br&gt;Contunue" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="374" width="110" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="tUX4ecAW6TSRSTz0bDxl-23" value="Watch Videos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
